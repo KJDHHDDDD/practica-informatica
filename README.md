@@ -1,0 +1,2 @@
+# practica-informatica
+informatica medica
